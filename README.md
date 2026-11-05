@@ -1,121 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Khushi%20Agarwal%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20SDE%20•%20Full-Stack%20Developer%20•%20GATE%20Qualified&descAlignY=58&descSize=16" alt="header" />
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:312e81,100:0891b2&height=260&section=header&text=Khushi%20Agarwal&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GATE%20Qualified&descAlignY=60&descSize=18" width="100%" />
 
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/Khushi-868">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Solving+DSA+problems+daily;Open+to+SDE+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%9A%80+Building+products+that+solve+real+problems;%E2%9A%9B%EF%B8%8F+React+%E2%80%A2+%E2%96%B2+Next.js+%E2%80%A2+%F0%9F%9F%A2+Node.js;%F0%9F%A4%96+Exploring+AI+Agents+%26+LLM+Integration;%F0%9F%A7%A0+Solving+DSA+one+problem+at+a+time;%F0%9F%92%BC+Open+to+SDE+opportunities" alt="Typing animation" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://my-professional-portfolio-lovat.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-agarwal-68bb28231/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khushi_567/)
-![Profile Views](https://komarev.com/ghpvc/?username=Khushi-868&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS)
+<!-- BADGES -->
+<a href="https://my-professional-portfolio-lovat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/khushi-agarwal-68bb28231/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://leetcode.com/u/khushi_567/"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://github.com/Khushi-868"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Khushi-868&label=Profile%20Views&color=0891b2&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Khushi-868?label=Followers&style=flat-square&color=312e81" />
+<img src="https://img.shields.io/github/stars/Khushi-868?label=Stars&style=flat-square&color=0891b2" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👩‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World!
 
-- 🎓 **GATE qualified** with a strong foundation in Computer Science fundamentals
-- 💻 Full-stack developer who enjoys turning ideas into clean, responsive web apps
-- 🧠 Regularly practicing **Data Structures & Algorithms** on LeetCode
-- 🌱 Currently deepening my skills in **Next.js, TypeScript, and system design**
-- 📍 Based in **Delhi, India**
-- 🎯 Looking for **SDE roles** where I can build, learn, and grow with a great team
+> 💬 *"Build. Learn. Improve. Repeat."*
 
----
+I'm a **full-stack developer** based in **Delhi, India** who loves turning ideas into working software. I'm **GATE qualified**, I practice **DSA** regularly, and I'm currently exploring **AI-powered development**.
 
-## 🛠️ Tech Stack
+## `$ whoami`
 
-**Languages**
+```javascript
+const khushi = {
+  role: "Software Engineer",
+  location: "Delhi, India 🇮🇳",
+  education: "GATE Qualified 🎓",
+  focus: ["Full Stack Development", "AI Engineering"],
+  languages: ["C++", "JavaScript", "Python", "Java"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "REST APIs"],
+  databases: ["MongoDB", "PostgreSQL", "Firebase", "MySQL"],
+  currentlyExploring: ["AI Agents", "LLM Integration"],
+  funFact: "I debug with coffee ☕ and ship with confidence 🚀",
+  philosophy: "Build. Learn. Improve. Repeat."
+};
+```
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⚡ What I'm Building
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
+| | Focus | Details |
 |---|---|---|
-| 📚 [**Booknest Online Store**](https://github.com/Khushi-868/Booknest-online-store) | An elegant online bookstore where readers can explore, browse, and buy their favorite books | React, JavaScript |
-| 🏥 [**Hospital Management System**](https://github.com/Khushi-868/Hospital-Management-System) | A web-based system to manage hospital operations and records | HTML, CSS |
-| 🎓 [**Educational University Website**](https://github.com/Khushi-868/Educationaluniversitywebsite) | A responsive university website with a clean, informative layout | HTML, CSS |
-| 📊 [**Next Dashboard UI**](https://github.com/Khushi-868/next-dashboard-ui) | Dashboard UI built for learning and customization (forked and extended) | Next.js, TypeScript |
-| 🗺️ [**Map**](https://github.com/Khushi-868/Map) | Interactive map project | JavaScript |
+| 🏥 | **Healthcare Platforms** | Building real-world healthcare solutions |
+| 🤖 | **AI Applications** | Experimenting with AI-powered tools and workflows |
+| 🌐 | **Full Stack Products** | Developing scalable, responsive web applications |
+| 🧠 | **Problem Solving** | Practicing DSA to sharpen problem-solving skills |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Khushi-868&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-868&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Khushi-868&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🧩 Coding Profile
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-<a href="https://leetcode.com/u/khushi_567/">
-  <img src="https://leetcard.jacoblin.cool/khushi_567?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,git,github,vscode,vercel&theme=dark&perline=9" />
 </a>
 
 </div>
 
----
-
-## 🏆 Achievements
-
-- 🎓 Qualified **GATE**
-- 🦈 **Pull Shark** and ⚡ **YOLO** GitHub achievements
-- 🧠 Consistently solving DSA problems on LeetCode
-
----
-
-## 📫 Let's Connect
-
-I'm always happy to chat about web development, DSA, or new opportunities.
-
-- 🌐 Portfolio: [my-professional-portfolio-lovat.vercel.app](https://my-professional-portfolio-lovat.vercel.app/)
-- 💼 LinkedIn: [khushi-agarwal](https://www.linkedin.com/in/khushi-agarwal-68bb28231/)
-- 🧩 LeetCode: [khushi_567](https://leetcode.com/u/khushi_567/)
+## 🚀 Featured Projects
 
 <div align="center">
 
-⭐ *If you like my work, feel free to star a repo or two!* ⭐
+| Project | Description | Stack |
+|---|---|---|
+| 🏥 **Samarth Hospital** | Production healthcare platform | Full Stack |
+| 🤖 **AI Website Builder** | AI-powered website generation | AI + Web |
+| 🪔 **Shakti Niketan** | Online Puja booking platform | Full Stack |
+| 🚕 **EasyGo Cabs** | Cab booking and management | Full Stack |
+| 📚 [**BookNest**](https://github.com/Khushi-868/Booknest-online-store) | Online bookstore application | React |
+| 📊 [**Next Dashboard UI**](https://github.com/Khushi-868/next-dashboard-ui) | Dashboard for learning & customization | Next.js, TypeScript |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer" alt="footer" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushi-868&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-868&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Khushi-868&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-868&bg_color=0d1117&color=38bdf8&line=818cf8&point=ffffff&area=true&area_color=312e81&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Khushi-868&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+## 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/khushi_567/">
+  <img src="https://leetcard.jacoblin.cool/khushi_567?theme=dark&font=Karla&ext=heatmap" />
+</a>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Khushi-868/Khushi-868/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
+<br/><br/>
+
+I'm always interested in building meaningful products, exploring new technologies and connecting with developers.
+
+**Have an interesting idea? Let's build something together!** 💡
+
+<a href="https://www.linkedin.com/in/khushi-agarwal-68bb28231/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+<a href="https://github.com/Khushi-868?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-818CF8?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
