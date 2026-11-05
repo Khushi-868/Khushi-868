@@ -75,12 +75,10 @@ const khushi = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏥 **Samarth Hospital** | Production healthcare platform | Full Stack |
+| 📚 [**BookNest**](https://github.com/Khushi-868/Booknest-online-store) | An elegant online bookstore where readers can explore, browse, and buy their favorite books | React, JavaScript |
 | 🤖 **AI Website Builder** | AI-powered website generation | AI + Web |
-| 🪔 **Shakti Niketan** | Online Puja booking platform | Full Stack |
-| 🚕 **EasyGo Cabs** | Cab booking and management | Full Stack |
-| 📚 [**BookNest**](https://github.com/Khushi-868/Booknest-online-store) | Online bookstore application | React |
-| 📊 [**Next Dashboard UI**](https://github.com/Khushi-868/next-dashboard-ui) | Dashboard for learning & customization | Next.js, TypeScript |
+| 📊 [**Next Dashboard UI**](https://github.com/Khushi-868/next-dashboard-ui) | Dashboard UI for learning & customization | Next.js, TypeScript |
+| 🏥 **Hospital Website** | Healthcare website, launching soon | 🚧 Coming Soon |
 
 </div>
 
@@ -96,22 +94,6 @@ const khushi = {
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Khushi-868&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-868&bg_color=0d1117&color=38bdf8&line=818cf8&point=ffffff&area=true&area_color=312e81&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khushi-868&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 
 </div>
 
