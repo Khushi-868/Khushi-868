@@ -18,7 +18,6 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Khushi-868&label=Profile%20Views&color=0891b2&style=flat-square" />
 <img src="https://img.shields.io/github/followers/Khushi-868?label=Followers&style=flat-square&color=312e81" />
-<img src="https://img.shields.io/github/stars/Khushi-868?label=Stars&style=flat-square&color=0891b2" />
 
 </div>
 
@@ -88,10 +87,12 @@ const khushi = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushi-868&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-868&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+<img src="https://img.shields.io/github/followers/Khushi-868?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=312e81" />
+<img src="https://img.shields.io/badge/Coding%20on%20GitHub%20since-2022-0891b2?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/github/last-commit/Khushi-868/Booknest-online-store?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a&color=312e81&label=Last%20Commit" />
+<img src="https://img.shields.io/github/languages/top/Khushi-868/Booknest-online-store?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0f172a&color=0891b2" />
 
-<br/>
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Khushi-868&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
 
